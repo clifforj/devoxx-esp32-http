@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.osx": {
+        "PATH": "/Users/clifforj/.platformio/penv/bin:/Users/clifforj/.platformio/penv:/Users/clifforj/.sdkman/candidates/java/current/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/Development/android-sdk-macosx/platform-tools:/Development/android-sdk-macosx/tools",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
